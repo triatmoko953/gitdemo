@@ -2,5 +2,9 @@
 Console.WriteLine("Hello, World!");
 
 
-//ini benar
+//ubah
 Console.WriteLine("Hello, World 1");
+
+//ubah lagi
+Console.WriteLine("Hello, World 2");
+
