@@ -5,6 +5,8 @@ Console.WriteLine("Hello, World!");
 //ubah
 Console.WriteLine("Hello, World 1");
 
-//ubah lagi
+//tambah hello world 3
 Console.WriteLine("Hello, World 2");
 
+//tambah hello world 3
+Console.WriteLine("Hello, World 3");
